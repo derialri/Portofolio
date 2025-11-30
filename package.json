@@ -58,7 +58,7 @@
             "build": "chmod +x node_modules/.bin/vite && vite build"
       },
       "engines": {
-      "node": "18.x"
+      "node": "24.x"
       }
 
 }
