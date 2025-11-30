@@ -20,7 +20,7 @@ export function Hero() {
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-indigo-400 rounded-full blur-2xl opacity-50 animate-pulse"></div>
             <ImageWithFallback
-              src="/public/assets/Profil.jpg"
+              src="/assets/Profil/Profil.jpg"
               alt="Profile"
               className="relative w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-white shadow-2xl"
             />
